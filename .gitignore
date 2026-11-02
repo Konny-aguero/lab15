@@ -1,0 +1,7 @@
+fieldtech-backend/target/
+fieldtech-backend/uploads/
+fieldtech_mobile/build/
+fieldtech_mobile/.dart_tool/
+fieldtech_mobile/android/local.properties
+.idea/
+*.iml
